@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="NoActionBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+    <style name="NoActionBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
 
     </style>
 
