@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         picles.setOnClickListener{
             if(et_name.text.toString().isEmpty()){
-                Toast.makeText(this,"Please enter your name", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"Por favor digite seu nome", Toast.LENGTH_SHORT).show()
             } else{
                 val intent = Intent(this, QuizQuestionActivity::class.java)
                 startActivity(intent)
