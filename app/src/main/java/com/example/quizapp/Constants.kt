@@ -73,8 +73,8 @@ object Constants{
             "Como as outras pessoas me descrevem?",
             R.drawable.pergunta6,
             "Legal, divertido, engraçado, carismático, inteligente e esforçado",
-            "Aline",
-            "Ju",
+            "Engraçado, presente, querido, amoroso, inteligente e diferente",
+            "Inteligente, carinhoso, engraçado, presente, companheiro e divertido",
             "Todos acima",
             4
         )
